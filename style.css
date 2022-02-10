@@ -1,0 +1,13 @@
+body {
+  font-size: small;
+  font-family: monospace;
+}
+h2 {
+  color: rgb(41, 30, 201);
+}
+h1 {
+  background-color: yellow;
+}
+p {
+  color: thistle;
+}
